@@ -1,0 +1,21 @@
+# macOS 시스템 임시 파일
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+
+# 로그 및 임시 파일
+*.log
+*.tmp
+*.bak
+
+# 환경 변수 및 보안 키 파일
+.env
+.env.local
+.env.*.local
+
+# 에디터 임시 파일
+*.swp
+*.swo
+*~
